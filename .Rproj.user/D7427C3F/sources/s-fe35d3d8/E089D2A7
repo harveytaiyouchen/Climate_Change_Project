@@ -1,0 +1,24 @@
+{
+    "id": "E089D2A7",
+    "path": "~/git/MGTA452/groupProject/global_temperature_lm.R",
+    "project_path": "global_temperature_lm.R",
+    "type": "r_source",
+    "hash": "3274973191",
+    "contents": "",
+    "dirty": false,
+    "created": 1607212136710.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "74,0",
+        "scrollLine": "48"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1607312573,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607312569674,
+    "read_only": false,
+    "read_only_alternatives": []
+}
